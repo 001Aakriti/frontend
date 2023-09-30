@@ -17,7 +17,7 @@ const Home = () => {
               <div className="col-12 col-lg-5 ms-auto">
                 <div className="mb-5">
                   <h2 className="display-4 fw-bold mb-5">
-                    Keep Track of Your Income1 & Expenses
+                    Keep Track of Your Income_2022-23 & Expenses
                   </h2>
                   <p className="lead text-muted mb-5">
                     View all your income and expenses flow from your team in one
